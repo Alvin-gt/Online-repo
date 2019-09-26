@@ -1,6 +1,4 @@
 # Online-repo
-# GitHub上的项目
-
 ### awesome系列
 
 所有方向的内容：[awesome](https://github.com/sindresorhus/awesome)
